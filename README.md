@@ -1,4 +1,4 @@
-<h1>I'm BBing</h1>
+<h1>I'm Bing</h1>
 
 You can find me at [Blog](https://www.bbing.com.cn/) | [Github](https://github.com/caibingcheng) | [Gitee](https://gitee.com/caibingcheng)
 
