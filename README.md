@@ -74,9 +74,6 @@ By the way, I'm recently practicing speaking English. Looking forward a partner 
 
 <p align="center">
 
-<a href="https://github.com/caibingcheng/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caibingcheng&repo=blog" hide_border=true/>
-</a>
 <a href="https://github.com/caibingcheng/orlike">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caibingcheng&repo=orlike" hide_border=true/>
 </a>
