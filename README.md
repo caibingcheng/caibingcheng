@@ -5,7 +5,7 @@ My name is BingCheng Cai and I am a SDE (Software Development Engineer 💻). I 
 
 Feel free to browse my repos and left any issues or comments 😌. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I will be happy 😃 to hear any questions or advice from you.
 
-Apart from coding, I also maintian a blog, you can find my articles at 👉 [bbing.com.cn](https://bbing.com.cn) or 👉 [imcbc.cn](https://imcbc.cn).
+Apart from coding, I also maintian a blog, you can find my articles at 👉 [bbing.com.cn](https://bbing.com.cn) or 👉 [imcbc.cn](https://imcbc.cn) or 👉 [caibingcheng.com](https://caibingcheng.com) .
 
 By the way, I'm recently practicing speaking English. Looking forward a partner who is practicing Mandarin 😄, we can make a language exchange if possible.
 
