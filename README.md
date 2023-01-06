@@ -1,15 +1,16 @@
 # Hi, I'm Bing ! 👋
 ![](https://img.shields.io/github/followers/caibingcheng?style=for-the-badge) ![](https://img.shields.io/github/stars/caibingcheng?affiliations=OWNER&style=for-the-badge) 
 
+<!-- ![](https://profile-counter.glitch.me/{caibingcheng}/count.svg) -->
+
 My name is BingCheng Cai and I am a SDE (Software Development Engineer 💻). I am from China and now living in Suzhou, Jiangsu Province 🗺.
 
-Feel free to browse my repos and left any issues or comments 😌. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I will be happy 😃 to hear any questions or advice from you.
+Feel free to browse my repos and left any issues or comments. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I will be happy to hear any questions or advice from you.
 
-Apart from coding, I also maintian a blog, you can find my articles at 👉 [bbing.com.cn](https://bbing.com.cn) or 👉 [imcbc.cn](https://imcbc.cn) or 👉 [caibingcheng.com](https://caibingcheng.com) .
+Apart from coding, I also maintian a blog, you can find my articles at 👉 [bbing.com.cn](https://bbing.com.cn) or 👉 [imcbc.cn](https://imcbc.cn) or 👉 [caibingcheng.com](https://caibingcheng.com) . (It's hard to decide use which one😭)
 
 By the way, I'm recently practicing speaking English. Looking forward a partner who is practicing Mandarin 😄, we can make a language exchange if possible.
 
----
 
 ## ⚡ Tech Stack
 
@@ -60,7 +61,7 @@ By the way, I'm recently practicing speaking English. Looking forward a partner 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caibingcheng&theme=github"/>
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=caibingcheng&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caibingcheng&theme=github&utcOffset=8"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caibingcheng&theme=github&utcOffset=8"/> -->
 </p>
 
 ### 🔝 Most used languages
@@ -69,7 +70,7 @@ By the way, I'm recently practicing speaking English. Looking forward a partner 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caibingcheng&langs_count=10&layout=compact">
 </p>
 
-## 📕 Pinned Repositories
+<!-- ## 📕 Pinned Repositories
 
 
 <p align="center">
@@ -96,10 +97,4 @@ By the way, I'm recently practicing speaking English. Looking forward a partner 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caibingcheng&repo=picrc" hide_border=true/>
 </a>
 
-<p>
-
----
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/{caibingcheng}/count.svg" />
-</p>
+<p> -->
