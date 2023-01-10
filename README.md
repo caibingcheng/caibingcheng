@@ -67,7 +67,7 @@ By the way, I'm recently practicing speaking English. Looking forward a partner 
 ### 🔝 Most used languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caibingcheng&langs_count=10&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caibingcheng&langs_count=10&layout=compact&hide=css,html">
 </p>
 
 <!-- ## 📕 Pinned Repositories
