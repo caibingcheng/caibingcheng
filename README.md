@@ -8,6 +8,11 @@ A software engineer from China!
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3000元装机和NAS升级](https://imcbc.cn/202307/3k-diypc-nasup/)
+- [设置CPU使用率的工具-cpuocup](https://imcbc.cn/202305/cpuocup/)
+- [终端数独游戏](https://imcbc.cn/202303/terminal-sudoku/)
+- [刻意练习](https://imcbc.cn/202302/deliberate-practice/)
+- [codebrowser书签插件](https://imcbc.cn/202302/codebrowser-bookmark-script/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 My github status
