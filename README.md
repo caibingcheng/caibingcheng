@@ -8,6 +8,11 @@ A software engineer from China!
 
 ### 💻 This week I spend my time on
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### 📔 Latest Blog Posts
