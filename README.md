@@ -6,6 +6,10 @@ A software engineer from China!
 - 💬 Ask me about anything related to C/CPP/Python/Linux
 - 🔥 I love 😺s
 
+### 💻 This week I spend my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [3000元装机和NAS升级](https://imcbc.cn/202307/3k-diypc-nasup/)
