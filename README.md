@@ -10,7 +10,11 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-C++   1 hr 16 mins    █████████████████████████   100.00 %
+C++            2 hrs 8 mins    █████████████████████▓░░░   86.45 %
+Markdown       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Brainfuck      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+BrightScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
