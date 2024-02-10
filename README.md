@@ -10,7 +10,10 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   37 mins         █████████████████████▒░░░   85.04 %
+CSS        5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
