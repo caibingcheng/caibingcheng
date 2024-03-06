@@ -17,11 +17,11 @@ Markdown   1 hr 25 mins    █████████████████�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [扫墓](https://imcbc.cn/202402/saomu/)
 - [Work Monitor 视频监控工具](https://imcbc.cn/202401/work-monitor/)
 - [3000元装机和NAS升级](https://imcbc.cn/202307/3k-diypc-nasup/)
 - [设置CPU使用率的工具-cpuocup](https://imcbc.cn/202305/cpuocup/)
 - [终端数独游戏](https://imcbc.cn/202303/terminal-sudoku/)
-- [刻意练习](https://imcbc.cn/202302/deliberate-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 My github status
