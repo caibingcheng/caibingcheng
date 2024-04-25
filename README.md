@@ -18,11 +18,11 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023年终总结](https://imcbc.cn/202402/2023-summary/)
 - [扫墓](https://imcbc.cn/202402/saomu/)
 - [Work Monitor 视频监控工具](https://imcbc.cn/202401/work-monitor/)
 - [3000元装机和NAS升级](https://imcbc.cn/202307/3k-diypc-nasup/)
 - [设置CPU使用率的工具-cpuocup](https://imcbc.cn/202305/cpuocup/)
-- [终端数独游戏](https://imcbc.cn/202303/terminal-sudoku/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 My github status
