@@ -1,10 +1,17 @@
 ### Hi, I'm Bing ! 👋
 
-A software engineer from China!
+A software engineer from China! 
 
 - 📝 I regularly write articles on [imcbc.cn](https://imcbc.cn)
 - 💬 Ask me about anything related to C/CPP/Python/Linux
-- 🔥 I love 😺s
+- 😺 I love cats
+
+### 🔥 My Badges
+
+![](https://komarev.com/ghpvc/?username=caibingcheng)
+![GitHub followers](https://img.shields.io/github/followers/caibingcheng)
+![GitHub User's stars](https://img.shields.io/github/stars/caibingcheng)
+![](https://www.codewars.com/users/caibingcheng/badges/micro)
 
 ### 💻 This week I spend my time on
 <!--START_SECTION:waka-->
