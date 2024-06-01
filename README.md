@@ -27,11 +27,11 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [clockdiff时间差测量原理](https://imcbc.cn/202405/clockdiff-sourcecode/)
 - [日志透传工具-channel](https://imcbc.cn/202405/transmite-log-channel/)
 - [2023年终总结](https://imcbc.cn/202402/2023-summary/)
 - [扫墓](https://imcbc.cn/202402/saomu/)
 - [Work Monitor 视频监控工具](https://imcbc.cn/202401/work-monitor/)
-- [3000元装机和NAS升级](https://imcbc.cn/202307/3k-diypc-nasup/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 My github status
