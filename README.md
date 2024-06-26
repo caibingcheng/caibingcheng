@@ -17,7 +17,11 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart       1 hr 8 mins     ███████████████▒░░░░░░░░░   61.88 %
+C++        13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Bash       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Other      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+JSON       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
 ```
 
 <!--END_SECTION:waka-->
