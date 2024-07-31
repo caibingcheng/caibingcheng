@@ -28,11 +28,11 @@ INI          10 mins         █▒░░░░░░░░░░░░░░░
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [栈buffer对比堆buffer](https://imcbc.cn/202407/stack_vs_heap_buffer/)
 - [十亿行挑战-C++](https://imcbc.cn/202406/1brc-cpp/)
 - [时间同步概述](https://imcbc.cn/202406/time-sync-summary/)
 - [clockdiff时间差测量原理](https://imcbc.cn/202405/clockdiff-sourcecode/)
 - [日志透传工具-channel](https://imcbc.cn/202405/transmite-log-channel/)
-- [2023年终总结](https://imcbc.cn/202402/2023-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌟 My github status
