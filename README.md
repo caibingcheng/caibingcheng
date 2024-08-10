@@ -17,11 +17,9 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   52 mins         █████████▒░░░░░░░░░░░░░░░   37.13 %
-Python       43 mins         ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-Markdown     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-HTML         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Text         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Python     0 secs          ████████████████████▒░░░░   81.19 %
+Markdown   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
