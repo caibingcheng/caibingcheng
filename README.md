@@ -17,9 +17,7 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-C++           41 mins         ████████████████████████▒   97.06 %
-Other         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
