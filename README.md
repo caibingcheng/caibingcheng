@@ -28,11 +28,11 @@ Python     2 mins          ▒░░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C++闭包二](https://imcbc.cn/202409/cpp-closure2/)
 - [轻量级参数解析库-tiny_cmdline](https://imcbc.cn/202408/about_tiny_summary/)
 - [C++标签派发技术](https://imcbc.cn/202408/cpp_tag_dispatch/)
 - [栈buffer对比堆buffer](https://imcbc.cn/202407/stack_vs_heap_buffer/)
 - [十亿行挑战-C++](https://imcbc.cn/202406/1brc-cpp/)
-- [时间同步概述](https://imcbc.cn/202406/time-sync-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
