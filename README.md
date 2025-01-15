@@ -25,11 +25,11 @@ HTML       0 secs          ▒░░░░░░░░░░░░░░░░�
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024年终总结](https://imcbc.cn/202501/2024-summary/)
 - [二维数据可视化工具-painter](https://imcbc.cn/202412/2d-vistual-painter/)
 - [C++闭包二](https://imcbc.cn/202409/cpp-closure2/)
 - [轻量级参数解析库-tiny_cmdline](https://imcbc.cn/202408/about_tiny_summary/)
 - [C++标签派发技术](https://imcbc.cn/202408/cpp_tag_dispatch/)
-- [栈buffer对比堆buffer](https://imcbc.cn/202407/stack_vs_heap_buffer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
