@@ -17,9 +17,9 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 50 mins   ███████████████████████▓░   94.65 %
-JSON     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   2 hrs           ██████████████████████▓░░   90.22 %
+JSON     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
