@@ -24,11 +24,11 @@ No activity tracked
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DMA拼接](https://imcbc.cn/202504/dma-ring/)
 - [Base64压缩](https://imcbc.cn/202504/base64-compression/)
 - [2024年终总结](https://imcbc.cn/202501/2024-summary/)
 - [二维数据可视化工具-painter](https://imcbc.cn/202412/2d-vistual-painter/)
 - [C++闭包二](https://imcbc.cn/202409/cpp-closure2/)
-- [轻量级参数解析库-tiny_cmdline](https://imcbc.cn/202408/about_tiny_summary/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
