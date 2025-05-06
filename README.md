@@ -17,11 +17,11 @@ A software engineer from China!
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 58 mins    ███████████████████▓░░░░░   78.23 %
-Markdown     15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-JSON         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python       4 hrs 4 mins    █████████████████████▒░░░   85.75 %
+Markdown     20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
