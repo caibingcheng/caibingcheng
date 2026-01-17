@@ -13,15 +13,6 @@ A software engineer from China!
 ![GitHub User's stars](https://img.shields.io/github/stars/caibingcheng)
 ![](https://www.codewars.com/users/caibingcheng/badges/micro)
 
-### 💻 This week I spend my time on
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [行车记录仪视频拼接](https://imcbc.cn/202505/dashcam-video-merge/)
