@@ -15,11 +15,11 @@ A software engineer from China!
 
 ### 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025年终总结](https://imcbc.cn/202601/2025-summary/)
 - [行车记录仪视频拼接](https://imcbc.cn/202505/dashcam-video-merge/)
 - [生成文章摘要](https://imcbc.cn/202504/summary-by-ai/)
 - [DMA拼接](https://imcbc.cn/202504/dma-ring/)
 - [Base64压缩](https://imcbc.cn/202504/base64-compression/)
-- [2024年终总结](https://imcbc.cn/202501/2024-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
