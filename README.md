@@ -42,11 +42,11 @@ A Chinese software engineer!
 ### 📔 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Token Tracker - 追踪 Coding Agent 的 Token 使用情况](https://imcbc.cn/202605/token-tracker/)
 - [AI Coding 工具的实践经验](https://imcbc.cn/202605/ai-coding-practical-experience/)
 - [2025年终总结](https://imcbc.cn/202601/2025-summary/)
 - [行车记录仪视频拼接](https://imcbc.cn/202505/dashcam-video-merge/)
 - [生成文章摘要](https://imcbc.cn/202504/summary-by-ai/)
-- [DMA拼接](https://imcbc.cn/202504/dma-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
