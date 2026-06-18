@@ -5,11 +5,13 @@ A Chinese software engineer!
 - 💬 Hit me up with any questions about C/C++/Linux
 - 😺 Obsessed with cats | Total cat person
 
+<!--
 ### 🔥 My Badges
 ![](https://komarev.com/ghpvc/?username=caibingcheng&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/caibingcheng?style=flat-square&logo=github&color=181717)
 ![GitHub User's stars](https://img.shields.io/github/stars/caibingcheng?style=flat-square&logo=github&color=181717)
 ![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/caibingcheng&query=$.public_repos&label=GitHub%20Repos&style=flat-square&color=181717&logo=github)
+-->
 <!-- ![](https://www.codewars.com/users/caibingcheng/badges/micro) -->
 
 ### 🛠️ My Skills
