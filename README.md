@@ -45,7 +45,7 @@ A Chinese software engineer!
 
 <!-- BLOG-POST-LIST:START -->
 - [git-cm：在终端里用 LLM 生成 commit message](https://imcbc.cn/202606/git-cm-llm-commit-message/)
-- [Token Tracker - 追踪 Coding Agent 的 Token 使用情况](https://imcbc.cn/202605/token-tracker/)
+- [Token Tracker - 从 Token 记账到个人 AI Gateway](https://imcbc.cn/202605/token-tracker/)
 - [AI Coding 工具的实践经验](https://imcbc.cn/202605/ai-coding-practical-experience/)
 - [2025年终总结](https://imcbc.cn/202601/2025-summary/)
 - [行车记录仪视频拼接](https://imcbc.cn/202505/dashcam-video-merge/)
