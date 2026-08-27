@@ -44,9 +44,9 @@ A Chinese software engineer!
 ### 📔 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我现在难以输出一篇完整的文章](https://imcbc.cn/202608/fragmented-writing/)
 - [git-cm：在终端里用 LLM 生成 commit message](https://imcbc.cn/202606/git-cm-llm-commit-message/)
 - [Token Tracker - 从 Token 记账到个人 AI Gateway](https://imcbc.cn/202605/token-tracker/)
-- [AI Coding 工具的实践经验](https://imcbc.cn/202605/ai-coding-practical-experience/)
 - [2025年终总结](https://imcbc.cn/202601/2025-summary/)
 - [行车记录仪视频拼接](https://imcbc.cn/202505/dashcam-video-merge/)
 <!-- BLOG-POST-LIST:END -->
